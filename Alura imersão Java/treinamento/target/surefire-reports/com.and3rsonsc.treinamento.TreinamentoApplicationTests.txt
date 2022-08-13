@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.and3rsonsc.treinamento.TreinamentoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.703 s - in com.and3rsonsc.treinamento.TreinamentoApplicationTests
